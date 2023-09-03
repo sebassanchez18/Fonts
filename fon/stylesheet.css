@@ -2,9 +2,9 @@
     font-family: 'Neue Haas Grotesk Display Pro';
     src: url('NeueHaasDisplay-BlackItalic.eot');
     src: local('Neue Haas Grotesk Display Pro 96 Black Italic'), local('NeueHaasDisplay-BlackItalic'),
-        url('https://fontscustom.github.io/NeueHaasDisplay-BlackItalic.eot') format('embedded-opentype'),
-        url('https://fontscustom.github.io/NeueHaasDisplay-BlackItalic.woff') format('woff'),
-        url('https://fontscustom.github.io/NeueHaasDisplay-BlackItalic.ttf') format('truetype');
+        url('https://fontscustom.github.io/fon/NeueHaasDisplay-BlackItalic.eot') format('embedded-opentype'),
+        url('https://fontscustom.github.io/fon/NeueHaasDisplay-BlackItalic.woff') format('woff'),
+        url('https://fontscustom.github.io/fon/NeueHaasDisplay-BlackItalic.ttf') format('truetype');
     font-weight: 900;
     font-style: italic;
 }
